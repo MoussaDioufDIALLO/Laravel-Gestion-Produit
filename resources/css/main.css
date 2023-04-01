@@ -1,0 +1,20 @@
+.hide-content {
+    visibility: hidden;
+  }
+  
+  body {
+    visibility: visible;
+  }
+  
+h1
+{
+    position: absolute;
+    top:50%; left:50%;
+    font-weight: 5em;
+    color: fff;
+    text-shadow: 3px 3pxs;
+}
+body
+{
+    background-color: aqua;
+}
